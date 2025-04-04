@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcMovie
+build_property.RootNamespace = MvcMovie
+build_property.ProjectDir = E:\dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/HelloWorld/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/CreateOriginal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZU9yaWdpbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/DeleteOriginal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZU9yaWdpbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/DetailsOriginal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHNPcmlnaW5hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/EditOriginal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXRPcmlnaW5hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/IndexForm1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4Rm9ybTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/IndexFormGenreNoRating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4Rm9ybUdlbnJlTm9SYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/IndexGenreRating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4R2VucmVSYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/IndexGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4R2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Movies/IndexOriginal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4T3JpZ2luYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/dotnet AspNetCore.Docs 595f5c3a355c7978bace9447ebe6f222f1fd1542 aspnetcore-tutorials_first-mvc-app_start-mvc_sample_MvcMovie90/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
